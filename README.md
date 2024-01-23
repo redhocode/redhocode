@@ -1,3 +1,4 @@
+ <img src="https://komarev.com/ghpvc/?username=redhocode&style=flat-square&color=blue" alt=""/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=525CEB&random=false&width=435&lines=Hallo%2C+World!!;Saya+Redho.;Calon+Programmer.)](https://git.io/typing-svg)
 
 <div id="header" align="center">
@@ -19,7 +20,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=redhocode&style=flat-square&color=blue" alt=""/>
+ 
 </div>
 <hr/>
 
@@ -43,5 +44,7 @@
 ---
 
 ### :fire: My Stats :
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=redhocode&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=redhocode&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
