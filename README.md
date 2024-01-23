@@ -8,7 +8,7 @@
 <div align="left">
     <h2>🚀 About Me</h2>
  </div>
-                 .Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding world. I love solving problems and creating innovative solutions through programming
+                             .[Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding world. I love solving problems and creating innovative solutions through programming]
 
 <div id="badges" align="left">
  <a href="https://www.linkedin.com/in/redho-arifin-983372196/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bq0AO7VVpT9eOax5jxtCO6w%3D%3D">
