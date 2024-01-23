@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=525CEB&random=false&width=435&lines=Hallo%2C+World!!;Saya+Redho.;Calon+Programmer.)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width=100>
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width=120>
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/shasimies/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/redhocode">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
