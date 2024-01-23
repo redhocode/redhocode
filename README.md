@@ -47,3 +47,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=redhocode&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 .[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redhocode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="ledt">
+    <img src="https://raw.githubusercontent.com/https://github.com/redhocode/redhocode/https://github.com/redhocode/redhocode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
