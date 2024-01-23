@@ -49,6 +49,6 @@
 .[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redhocode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="ledt">
-    <img src="https://raw.githubusercontent.com/github.com/redhocode/redhocode/github.com/redhocode/redhocode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/github.com/redhocode/github.com/redhocode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
