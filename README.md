@@ -1,6 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=redhocode&style=flat-square&color=blue" alt=""/>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=525CEB&random=false&width=435&lines=Hallo%2C+World!!;Saya+Redho.;Calon+Programmer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=525CEB&random=false&width=435&lines=Hallo%2C+World!!;Calon+Programmer.)](https://git.io/typing-svg)
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width=120>
