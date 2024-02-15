@@ -13,8 +13,8 @@ Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding
 *   ✉️  You can contact me at [redho.arn@gmail.com](mailto:redho.arn@gmail.com)
 *   🧠  I'm learning React-Js
 *   ⚡  I'm Aspiring Programmer
-
-[![spotify-github-profile](http://localhost:3000/api/view?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+[[http://localhost:3000/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&redirect=true][http://localhost:3000/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
   
 ### Skills 
 <p align="left">
