@@ -20,6 +20,8 @@ Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding
 <img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
 </a>
 </p>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
   
 ### Skills 
 <p align="left">
