@@ -14,7 +14,12 @@ Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding
 *   🧠  I'm learning React-Js
 *   ⚡  I'm Aspiring Programmer
   
-[[http://localhost:3000/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&redirect=true][http://localhost:3000/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
   
 ### Skills 
 <p align="left">
