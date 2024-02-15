@@ -13,8 +13,10 @@ Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding
 *   ✉️  You can contact me at [redho.arn@gmail.com](mailto:redho.arn@gmail.com)
 *   🧠  I'm learning React-Js
 *   ⚡  I'm Aspiring Programmer
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-play-gilt.vercel.app/spotify-play/H9HpGVScVo7fNCvqJcMUBiuBdrRz/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/a3thxrr5hvqruh3dkvsa8nh49?si=2683a84cefa7488c)
+  </div>
 
-  [![Spotify](https://vercel.com/redho-arifins-projects-cad1f7b3/spotify-play/H9HpGVScVo7fNCvqJcMUBiuBdrRz/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/a3thxrr5hvqruh3dkvsa8nh49?si=2683a84cefa7488c)
   
 ### Skills 
 <p align="left">
