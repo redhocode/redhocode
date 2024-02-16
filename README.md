@@ -16,8 +16,7 @@ Hello! I'm Redho, an aspiring programmer with a passion for exploring the coding
   
 ### Now Playing — Spotify 🎧
 
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
 
   
 ### Skills 
