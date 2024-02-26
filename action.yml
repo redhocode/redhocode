@@ -1,0 +1,10 @@
+name: 'My Action'
+description: 'Github profile'
+author: 'redhocode'
+inputs:
+  input_name:
+    description: 'profile'
+    required: true
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
