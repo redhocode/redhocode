@@ -9,10 +9,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Redho Arifin
 ====================================================================================================================================
 
-
-
-
-```
+<div>
+  ```
 function success(dedication, persistence, passion) {
     dedication += 10; // Dedicate yourself
     persistence += 10; // Be persistent
@@ -28,8 +26,11 @@ function success(dedication, persistence, passion) {
 }
 
 ```
-<img><embed src="https://wakatime.com/share/@redhocode/78da0267-a24d-47a5-9179-8b15b65df2bb.svg"></embed></img>
 
 <a href="https://www.spotify.com/" target="_blank" rel="noreferrer"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing"/></a>
+</div>
+
+
+
 
 
