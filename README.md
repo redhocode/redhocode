@@ -29,6 +29,8 @@ function success(dedication, persistence, passion) {
 
 ```
 
+<a href="https://www.spotify.com/" target="_blank" rel="noreferrer"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing"/></a>
+
 ## :hammer: :fire: Learn Skills
 ---
 <table><tr><td valign="top" width="33%">
@@ -70,8 +72,6 @@ function success(dedication, persistence, passion) {
 
 </td>
 <td valign="top" width="33%">
-
-<a href="https://www.spotify.com/" target="_blank" rel="noreferrer"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing"/></a>
 
 </td></tr></table>  
 
