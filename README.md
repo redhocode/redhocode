@@ -31,7 +31,7 @@ function success(dedication, persistence, passion) {
   <div style="flex: 1; text-align: left;">
 
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div align="center">
     <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
     </a>
