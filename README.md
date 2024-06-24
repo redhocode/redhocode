@@ -9,7 +9,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Redho Arifin
 ====================================================================================================================================
 
-<div>
+<div align="left">
   
   ```
 function success(dedication, persistence, passion) {
@@ -27,13 +27,9 @@ function success(dedication, persistence, passion) {
 }
 
 ```
+</div>
 <div style="display: flex; justify-content: space-between;">
- <div align="left">
-    <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
-    </a>
-  </div>
-  <div align="right">
+  <div align="center">
     <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
     </a>
