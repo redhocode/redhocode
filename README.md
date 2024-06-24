@@ -27,6 +27,9 @@ function success(dedication, persistence, passion) {
 }
 
 ```
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## :hammer: :fire: Learn Skills
 ---
