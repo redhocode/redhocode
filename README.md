@@ -2,6 +2,7 @@
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/redho-arifin-983372196/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=redho.arn@gmail.com&tf=1)
   [![Visits](https://komarev.com/ghpvc/?username=redhocode&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/redhocode)
+  [![wakatime](https://wakatime.com/badge/user/d34b7c67-b021-453b-88f1-66063a5e64f9.svg)](https://wakatime.com/@d34b7c67-b021-453b-88f1-66063a5e64f9)
 </div>
 
  
