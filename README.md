@@ -9,11 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-*   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [here](http://redhocode.vercel.app)
-*   ✉️  You can contact me at [here](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=redho.arn@gmail.com&tf=1)
-*   🧠  I'm learning React-Js
-*   ⚡  I'm Aspiring Programmer
+
 
 ```
 function success(dedication, persistence, passion) {
