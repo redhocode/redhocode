@@ -27,9 +27,19 @@ function success(dedication, persistence, passion) {
 }
 
 ```
-
-<a href="https://www.spotify.com/" target="_blank" rel="noreferrer"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing"/></a>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <figure style="margin: 0;">
+      <img src="https://wakatime.com/share/@redhocode/ff7f8fe5-bb4e-45c2-9a79-6b02fdbaf50f.svg" style="width: 100%; height: auto;">
+    </figure>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+    </a>
+  </div>
 </div>
+
 
 
 
