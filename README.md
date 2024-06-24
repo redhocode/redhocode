@@ -30,7 +30,7 @@ function success(dedication, persistence, passion) {
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <figure style="margin: 0;">
-      <img src="https://wakatime.com/share/@redhocode/ff7f8fe5-bb4e-45c2-9a79-6b02fdbaf50f.svg" style="width: 100%; height: auto;">
+      <img src="https://wakatime.com/share/@redhocode/8c8d0a03-708c-4653-a303-cb155f4f736f.svg" style="width: 50%; height: auto;">
     </figure>
   </div>
   <div style="flex: 1; text-align: right;">
