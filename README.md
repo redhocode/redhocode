@@ -29,9 +29,7 @@ function success(dedication, persistence, passion) {
 ```
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <figure style="margin: 0;">
-      <img src="https://wakatime.com/share/@redhocode/8c8d0a03-708c-4653-a303-cb155f4f736f.svg" style="width: 70%; height: auto;">
-    </figure>
+
   </div>
   <div style="flex: 1; text-align: right;">
     <a href="https://www.spotify.com/" target="_blank" rel="noreferrer">
