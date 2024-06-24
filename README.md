@@ -28,6 +28,7 @@ function success(dedication, persistence, passion) {
 }
 
 ```
+<figure><embed src="https://wakatime.com/share/@redhocode/78da0267-a24d-47a5-9179-8b15b65df2bb.svg"></embed></figure>
 
 <a href="https://www.spotify.com/" target="_blank" rel="noreferrer"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=a3thxrr5hvqruh3dkvsa8nh49&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing"/></a>
 
